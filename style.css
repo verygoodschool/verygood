@@ -1,0 +1,106 @@
+body{
+    background-color: black;
+    margin-bottom: -10%;
+}
+h1{
+    background-color: forestgreen;
+    color: rgb(240, 213, 177);
+    font-family: Inter Tight;
+    text-align: center;
+    font-size: 500%;
+    margin-top: -0.15%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+h4{
+    margin-top: -110px;
+    margin-left: 600px;
+    font-size: 80%;
+    font-family: Inter Tight;
+    font-size: 200%;
+    color: white;
+}
+.subtitle{
+    background-color: forestgreen;
+    color: white;
+    font-size: 300%;
+    font-family: Inter Tight;
+}
+h2{
+    margin-left: 8%;
+    font-family: Inter Tight;
+}
+p{
+    font-family: Oswald;
+    padding-left: 3%;
+}
+.free{
+    margin-top: 5%;
+}
+.list{
+    display: flex;
+    width: 40%;
+    margin-left: 30%;
+    justify-content: space-between;
+}
+input{
+    width: 60%;
+}
+button{
+    width: 30%;
+}
+.footer{
+    color: white;
+    background-color: black;
+    font-family: Oswald;
+    text-align: center;
+    width: 100%;
+    margin-left: 0%;
+    height: 50px;
+    margin-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.burlywood{
+    background-color: powderblue;
+    width: 100%;
+    margin-left: 0%;
+    margin-top: -0.8%;
+}
+.login{
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 40%;
+    height: 40%;
+    margin-left: 30%;
+    margin-top: 17%;
+    background-color: forestgreen;
+    border-style: double;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 30px;
+}
+.login h2{
+    margin-left: 0%;
+    background-color: burlywood;
+    padding: 1.5%;
+    border-color: black;
+    border-style: double;
+    border-radius: 9999999999999px;
+    font-size: 200%;
+    margin-top: 8%;
+}
+.login input{
+    margin-top: 2%;
+    height: 25px;
+    font-size: 25px;
+}
+h3{
+    color: white;
+    font-family: Inter Tight;
+    font-size: 176%;
+}
