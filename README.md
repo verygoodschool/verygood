@@ -1,2 +1,2 @@
-# verygood
-The official GitHub repository for VeryGood School, the open-source SSO platform for EdTech! (work in progress)
+# VeryGood School
+The official GitHub repository for VeryGood School, the free and open-source SSO platform for EdTech! It's designed to help your students save time logging in, and save your school district money while doing it, all while keeping student data secure! It's not ready for a full release yet (2026-27 school year release, hopefully), but if you can help build it, please fork the repo & submit a pull request when you've done what you want to!
